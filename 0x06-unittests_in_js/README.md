@@ -1,3 +1,1 @@
-
-# add a .gitignore file to avoid redundancy
-# To be updated
+ Unittests in JS
